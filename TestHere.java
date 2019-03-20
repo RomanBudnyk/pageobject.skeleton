@@ -6,6 +6,5 @@ public class TestHere extends BaseTest {
 
     @Test
     public void someTest() {
-
     }
 }
